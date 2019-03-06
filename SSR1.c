@@ -1,3 +1,5 @@
+PROGRAM FOR CYCLIC REDUNDANCY CHECK
+
 #include<stdio.h>
 #include<string.h>
 #define N strlen(g)
