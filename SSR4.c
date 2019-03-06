@@ -1,3 +1,5 @@
+LEAKY BUCKET ALGORITHM
+
 #include<stdio.h>
 #define MAX 25
 int min (int x, int y)
